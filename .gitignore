@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PCAP files
+pcaps/*.pcap
+pcaps/*.pcapng
+
+# Generated data
+data/*.csv
+data/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
